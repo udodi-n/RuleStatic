@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environment
+.venv/
+
+# Downloaded images
+images/
+
+# Scratch files
+main.py
+
+# Tooling / OS
+.uv/
+.ruff_cache/
+.DS_Store

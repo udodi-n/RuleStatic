@@ -1,0 +1,8 @@
+https://rule34.xxx/index.php?page=post&s=list&tags=4boys
+
+wait for browser to load
+get entire code
+push every img src into an array
+loop through array
+fetch images
+write them to a new image in a folder
